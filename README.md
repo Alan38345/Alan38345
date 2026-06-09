@@ -12,7 +12,4 @@ ZSEM 5-th grade student.<br>I'm currently learning.<br>I like Backend Developmen
 ![](https://streak-stats.demolab.com/?user=Alan38345&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alan38345&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Alan38345&icon=0&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
